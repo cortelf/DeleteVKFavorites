@@ -1,0 +1,13 @@
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\RuCaptcha.dll
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\RuCaptcha.pdb
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\EasyHttp.dll
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\JsonFx.dll
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\Newtonsoft.Json.dll
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\EasyHttp.pdb
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\JsonFx.xml
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\bin\Release\Newtonsoft.Json.xml
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\obj\Release\RuCaptcha.csproj.CoreCompileInputs.cache
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\obj\Release\RuCaptcha.csproj.CopyComplete
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\obj\Release\RuCaptcha.dll
+c:\users\cortel\source\repos\RuCaptcha\RuCaptcha\obj\Release\RuCaptcha.pdb
+C:\Users\Cortel\source\repos\RuCaptcha\RuCaptcha\obj\Release\RuCaptcha.csprojAssemblyReference.cache
