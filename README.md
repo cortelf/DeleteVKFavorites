@@ -2,7 +2,7 @@
 
 ## Сборка
 ### Linux
-Для начала ставим моно по инструкции с офф сайта: https://www.mono-project.com/download/stable/#download-lin
+Для начала, ставим моно по инструкции с офф сайта: https://www.mono-project.com/download/stable/#download-lin
 
 После клонируем код к себе 
 
